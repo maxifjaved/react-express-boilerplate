@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "server": "nodemon --watch server --exec babel-node -- server/server.js",
-    "lint": "eslint src"
+    "lint": "eslint client"
   },
   "repository": {
     "type": "git",
