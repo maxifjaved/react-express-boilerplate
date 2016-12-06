@@ -1,4 +1,4 @@
-Learn Full Stack with React-Redux
+React Starter Kit
 =====================
 
 ### Usage
