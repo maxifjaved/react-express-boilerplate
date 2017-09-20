@@ -1,0 +1,1 @@
+export const SET_PEOPLES_DETAIL = 'SET_PEOPLES_DETAIL';
